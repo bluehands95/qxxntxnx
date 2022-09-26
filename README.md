@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qxxntxnx
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently learning Svelte
 
 <!---
 qxxntxnx/qxxntxnx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
